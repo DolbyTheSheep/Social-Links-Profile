@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-| Desktop                                          |                                                |
+| Desktop                                          |    Mobile                                      |
 |--------------------------------------------------|------------------------------------------------|
 |![Desktop](./screenshots/social-links-dekstop.png)|![Mobile](./screenshots/social-links-mobile.png)|
 
